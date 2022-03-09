@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">returning-result-intents-example</string>
+    <string name="first_intent_title">First Intent</string>
+    <string name="second_intent_title">Second Intent</string>
+    <string name="first_intent_button">Click to Next intent</string>
+    <string name="second_intent_button">Click to Previous Intent</string>
+</resources>
